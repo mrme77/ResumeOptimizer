@@ -2,6 +2,8 @@
 
 A web application that automatically rewrites and formats your resume into a professional, ATS-friendly, 2-page document.
 
+![Resume Picture](resume.png)
+
 ## ✨ Key Features
 
 -   **ATS-Friendly Formatting**: Generates a clean, single-column resume that applicant tracking systems can easily parse.
